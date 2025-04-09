@@ -1,6 +1,6 @@
 # Login and Registration System (Tkinter)
 
-This is a simple login and registration system built with **Python** and **Tkinter**. It allows users to register with a username and password and then log in with the credentials. The system stores the usernames and passwords in a text file (`username_and_password.txt`).
+This is a login and registration system built with **Python** and **Tkinter**. It allows users to register with a username and password and then log in with the credentials. The system stores the usernames and passwords in a text file (`username_and_password.txt`).
 
 ## Features
 
