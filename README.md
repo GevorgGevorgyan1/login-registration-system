@@ -41,7 +41,7 @@ This is a login and registration system built with **Python** and **Tkinter**. I
 4. Run the Python script:
 
     ```bash
-    python login_registration_system.py
+    python main.py
     ```
 
 5. The GUI window will appear, allowing you to either log in or sign up.
